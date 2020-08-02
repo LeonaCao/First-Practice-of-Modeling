@@ -1,4 +1,4 @@
-# First-Practice-of-Modeling
+# First-Trial-of-Modeling
 This is an extra assignment right after assignment 1 dealing with data with time series and weather. In this script I also did some visualizations.
 
 But the most important part is modeling. In terms of the predictive variables, I created both polynomial and log features. 
