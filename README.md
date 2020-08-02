@@ -1,5 +1,5 @@
 # First-Practice-of-Modeling
-This is an assignment dealing with data with time series and weather. In this script I also did some visualizations.
+This is an extra assignment dealing with data with time series and weather. In this script I also did some visualizations.
 
 But the most important part is modeling. In terms of the predictive variables, I created both polynomial and log features. 
 And then I used them along with the original X data to build and fit ElasticNet models with varying alpha values. 
